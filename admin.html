@@ -3,7 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>RUCCO · Administración</title>
+<title>Rucco · Administración</title>
+<link rel="icon" href="img/logo.png">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600&family=Jost:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{--crema:#F4F1E9;--blush:#EAE4D6;--marron:#1C1A16;--marron2:#716C5E;--bronce:#8C6A3F;--ok:#3e7d4f;--rojo:#b34a3a;--sombra:0 10px 40px rgba(78,54,41,.08)}
@@ -53,7 +54,7 @@ details summary{cursor:pointer;font-size:.85rem;letter-spacing:.1em;text-transfo
 
 <!-- LOGIN -->
 <div class="centro" id="vLogin">
-  <div class="logo">RUCCO</div>
+  <img src="img/logo.png" alt="Rucco" style="height:34px">
   <h2 style="margin:.4rem 0 1.4rem">Panel de Administración</h2>
   <div class="panel" style="text-align:left">
     <label>Correo de administradora</label>
@@ -69,7 +70,7 @@ details summary{cursor:pointer;font-size:.85rem;letter-spacing:.1em;text-transfo
 <!-- PANEL -->
 <div class="wrap oculto" id="vPanel">
 <header>
-  <div class="logo">RUCCO <span class="pill">admin</span></div>
+  <div class="logo"><img src="img/logo.png" alt="Rucco" style="height:26px;vertical-align:middle"> <span class="pill">admin</span></div>
   <div style="display:flex;gap:.6rem;flex-wrap:wrap">
     <a href="index.html" target="_blank"><button class="btn-s">Ver tienda</button></a>
     <button class="btn-s" onclick="salir()">Salir</button>
@@ -130,7 +131,7 @@ details summary{cursor:pointer;font-size:.85rem;letter-spacing:.1em;text-transfo
   <details style="margin-top:1rem">
     <summary>Configuración de GitHub (una sola vez)</summary>
     <div class="fila">
-      <div><label>Usuario GitHub</label><input id="ghUser" placeholder="ej: abogadosasociadosmaster-cloud"></div>
+      <div><label>Usuario GitHub</label><input id="ghUser" placeholder="ej: BARRIONUEVOMARIAPILAR"></div>
       <div><label>Repositorio</label><input id="ghRepo" placeholder="ej: rucco-web"></div>
       <div><label>Rama</label><input id="ghBranch" value="main"></div>
       <div><label>Token de acceso (fine-grained, permiso Contents)</label><input id="ghToken" type="password" placeholder="github_pat_..."></div>
