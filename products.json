@@ -1,0 +1,132 @@
+{
+  "config": {
+    "instagram": "rucco",
+    "whatsapp": "",
+    "facebook": "rucco",
+    "anuncio": "Envíos a todo el país · 20% OFF abonando por transferencia",
+    "descuentoTransferencia": 20,
+    "cuotas": 0
+  },
+  "productos": [
+    {
+      "id": "anillo-plata-liso",
+      "nombre": "Anillo liso — Plata 925",
+      "categoria": "Plata 925",
+      "descripcion": "",
+      "precio": 22000,
+      "stock": 10,
+      "nuevo": true,
+      "imagenes": []
+    },
+    {
+      "id": "anillo-plata-piedra",
+      "nombre": "Anillo con piedra — Plata 925",
+      "categoria": "Plata 925",
+      "descripcion": "",
+      "precio": 26000,
+      "stock": 10,
+      "nuevo": false,
+      "imagenes": []
+    },
+    {
+      "id": "aros-plata-criolla",
+      "nombre": "Aros criolla chica — Plata 925",
+      "categoria": "Plata 925",
+      "descripcion": "",
+      "precio": 19000,
+      "stock": 10,
+      "nuevo": false,
+      "imagenes": []
+    },
+    {
+      "id": "cadena-plata-barbada",
+      "nombre": "Cadena barbada — Plata 925",
+      "categoria": "Plata 925",
+      "descripcion": "",
+      "precio": 34000,
+      "stock": 0,
+      "nuevo": false,
+      "imagenes": []
+    },
+    {
+      "id": "pulsera-acero-blanco",
+      "nombre": "Pulsera cadena fina — Acero blanco",
+      "categoria": "Acero Blanco",
+      "descripcion": "",
+      "precio": 15000,
+      "stock": 10,
+      "nuevo": false,
+      "imagenes": []
+    },
+    {
+      "id": "collar-acero-blanco",
+      "nombre": "Collar dije corazón — Acero blanco",
+      "categoria": "Acero Blanco",
+      "descripcion": "",
+      "precio": 17000,
+      "stock": 10,
+      "nuevo": false,
+      "imagenes": []
+    },
+    {
+      "id": "anillo-acero-dorado",
+      "nombre": "Anillo ajustable — Acero dorado",
+      "categoria": "Acero Dorado",
+      "descripcion": "",
+      "precio": 14000,
+      "stock": 10,
+      "nuevo": true,
+      "imagenes": []
+    },
+    {
+      "id": "cadena-acero-dorado",
+      "nombre": "Cadena cubana — Acero dorado",
+      "categoria": "Acero Dorado",
+      "descripcion": "",
+      "precio": 21000,
+      "stock": 10,
+      "nuevo": false,
+      "imagenes": []
+    },
+    {
+      "id": "aros-acero-dorado",
+      "nombre": "Aros argolla — Acero dorado",
+      "categoria": "Acero Dorado",
+      "descripcion": "",
+      "precio": 13000,
+      "stock": 10,
+      "nuevo": false,
+      "imagenes": []
+    },
+    {
+      "id": "aros-acero-quirurgico",
+      "nombre": "Aros básicos hipoalergénicos — Acero quirúrgico",
+      "categoria": "Acero Quirúrgico",
+      "descripcion": "",
+      "precio": 9500,
+      "stock": 10,
+      "nuevo": false,
+      "imagenes": []
+    },
+    {
+      "id": "piercing-acero-quirurgico",
+      "nombre": "Piercing nariz — Acero quirúrgico",
+      "categoria": "Acero Quirúrgico",
+      "descripcion": "",
+      "precio": 8000,
+      "stock": 10,
+      "nuevo": false,
+      "imagenes": []
+    },
+    {
+      "id": "pulsera-acero-quirurgico",
+      "nombre": "Pulsera eslabones — Acero quirúrgico",
+      "categoria": "Acero Quirúrgico",
+      "descripcion": "",
+      "precio": 16000,
+      "stock": 10,
+      "nuevo": false,
+      "imagenes": []
+    }
+  ]
+}
